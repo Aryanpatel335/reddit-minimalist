@@ -59,7 +59,7 @@ export const Header = () =>{
           <form id="formMain" className="search" onSubmit={onTermSubmit}>
             <input
               type="text"
-              placeholder="Search"
+              placeholder="Search Posts"
               aria-label="Search posts"
               onChange={onTermChange}
             />
