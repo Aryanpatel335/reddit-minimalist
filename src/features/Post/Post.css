@@ -29,7 +29,7 @@ article:hover{
   margin-top: 12px;
   border-top: 1px solid white;
   padding-top: 8px;
-  font-size: 0.75rem;
+  font-size: 0.87rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -39,6 +39,7 @@ article:hover{
   color: black;
   font-weight: bold;
   margin-left: 5px;
+  
 }
 
 .post-image-container {
