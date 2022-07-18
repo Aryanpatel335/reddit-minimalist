@@ -19,7 +19,7 @@ export const Post = (props)=>{
     }
     useEffect(()=>{
         dispatch(fetchAvatar(index,post.author));
-    },[dispatch])
+    },[dispatch,index,post.author])
 
     
     const showComments = ()=>{
