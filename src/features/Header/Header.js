@@ -65,6 +65,7 @@ export const Header = () =>{
             />
             
               {renderSearchTerm()}
+              
            
             
           </form>
