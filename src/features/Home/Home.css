@@ -1,0 +1,45 @@
+.mainHome{
+    width: 600px; 
+    height: auto;
+    margin: 0 auto;
+    
+    position: relative;
+    
+}
+.error{
+    color: white;
+   text-align: center;
+}
+
+.error .go-home{
+    background-color: white;
+    border-radius: 25px;
+    font-size: 18px;
+    padding: 10px 10px;
+    font-weight: bold;
+}
+
+.error .go-home:hover{
+    cursor: pointer;
+    background-color:rgba(255, 119, 0, 0.914);
+}
+.main-load{
+    display: flex;
+    justify-content: center;
+}
+.article{
+    width: 500px ;
+    height: 250px;
+    text-align: center;
+    display: flex;
+    background-color: white;
+    transform: scale(0.90);
+    border-radius: 50px;
+    align-content: center;
+    justify-content: center;
+    
+}
+
+.post-container{
+    margin-top: 10px;
+}

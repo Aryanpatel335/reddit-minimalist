@@ -1,0 +1,30 @@
+.comment-container{
+    display: block;
+    font-size: 12px;
+    
+    
+    margin-bottom: 20px;
+    
+}
+.body-container{
+    border-radius: 25px;
+    border: 2px solid rgb(200, 184, 184);
+}
+.body{
+    
+    margin: 20px 20px;
+    font-size: 14px;
+}
+.author{
+    color:blue;
+    font-weight: bold;
+    margin-right: 50px;
+    font-size: 16px;
+    margin-left: 20px;
+}
+.commentHour{
+    color: black;
+    font-style: italic;
+    font-size: 12px;
+    margin-left: 20px;
+}
